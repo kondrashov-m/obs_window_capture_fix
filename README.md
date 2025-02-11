@@ -22,3 +22,5 @@ My utility, **Window Capture FIX**, allows you to bypass this limitation. It cre
 10/02/25 Version 1.0 is inconvenient to use.
 
 11/02/25 When using version 1.0, there are problems with the image freezing, because the recorded windows go into sleep mode.
+
+12/02/25 The first build has been uploaded
